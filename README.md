@@ -23,6 +23,8 @@
 
 
 <a href="https://www.linkedin.com/in/mohammad-danish-alauddin-196746166"><img align="left" src="https://raw.githubusercontent.com/danish078600/danish078600/main/images/linkedin.svg" alt="Danish | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/mohammad-danish-alauddin-196746166"><img align="left" src="https://raw.githubusercontent.com/danish078600/danish078600/main/images/instagram.svg" alt="Danish | LinkedIn" width="21px"/></a>
+
 ---
 ![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=danish078600&show_icons=true&theme=merko)
 
