@@ -8,5 +8,8 @@
 - 2023 Goals: Contribute to Open Source Projects
 - I love Watching web-series
 
+---
+![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=danish078600)
 
-[![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=danish078600)]
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danish078600)
