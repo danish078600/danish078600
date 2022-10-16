@@ -20,7 +20,7 @@
 ---
 🤝 Connect with me
 ##
-
+<a href="https://www.linkedin.com/in/mohammad-danish-alauddin-196746166/"><img align="left" src="https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt="icon | LinkedIn” width="21px/></a>
 
 ---
 ![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=danish078600&show_icons=true&theme=merko)
