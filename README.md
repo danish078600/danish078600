@@ -22,7 +22,7 @@
 ##
 
 
-<a href=”linkedin.com/in/mohammad-danish-alauddin-196746166/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
+<a href="linkedin.com/in/mohammad-danish-alauddin-196746166/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
 ---
 ![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=danish078600&show_icons=true&theme=merko)
 
