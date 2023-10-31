@@ -43,8 +43,6 @@
 ---
 ![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=danish078600)
 
----
-[![GitHub Streak](https://streak-stats.demolab.com/?user=danish078600&theme=dark)](https://git.io/streak-stats)
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danish078600)](https://github.com/danish078600/github-readme-stats)
